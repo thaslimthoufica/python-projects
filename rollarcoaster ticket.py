@@ -7,11 +7,9 @@ if height>120:
         fee=7
     else:
         fee=12
-    photo=input("do you want photos")
-    if photo:
+    photo=input("do you want photos Y or N")
+    if photo=="Y":
         fee=fee+3
-    else:
-        fee=fee
     print(f"you can ride, the fees is {fee}")
 else:
     print("you can't ride")
