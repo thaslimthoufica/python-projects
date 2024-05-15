@@ -24,8 +24,6 @@ scissors = '''
       (____)
 ---.__(___)
 '''
-
-#Write your code below this line 👇
 import random
 elements=[rock,paper,scissors]
 mychoice=random.randint(0,2)
