@@ -3,7 +3,6 @@
 
 This repository serves as a showcase for the Python projects developed by s.ThaslimThoufica . Here, you'll find an assortment of projects ranging from simple scripts to complex applications, demonstrating various aspects of Python programming.
 
-Feel free to explore the projects, delve into the code, and even contribute if you're interested! Whether you're a beginner looking for examples to learn from or an experienced developer seeking inspiration, there's something here for everyone.
 a massive amount of tools and technologies, including:
 
 Python 3 - the latest version of Python
@@ -78,7 +77,7 @@ Web Design
 
 Deployment with GitHub Pages, Heroku and GUnicorn
 
-I also build a portfolio of 100 projects that you can show off to any potential employer. Including:
+I also build a portfolio of 100 projects, Including:
 
 Blackjack
 
